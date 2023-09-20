@@ -1,0 +1,34 @@
+/* Estilos específicos de app.css */
+.page {
+    background-color: #f0f0f0;
+  }
+  
+  .action-bar {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .layout {
+    padding: 20;
+  }
+  
+  .list {
+    margin-top: 20;
+  }
+  
+  .student-item {
+    background-color: red; /* Estilo de color rojo */
+    padding: 10;
+    margin: 5;
+    border-radius: 5;
+  }
+  
+  .student-name {
+    font-weight: bold;
+    color: white;
+  }
+  
+  .student-age {
+    color: white;
+  }
+  
